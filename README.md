@@ -1,6 +1,4 @@
 # YŪGEN - Skill tracker
-## The only skill tracker you need!
-
 https://yugen.club/
 
 
@@ -19,7 +17,7 @@ https://yugen.club/
 
 ### Share your skill trees!
 
-Check out mine [here](http://localhost:5174/profile/TthOwuycWNU3CXlHr7Pm3izFyy83)!
+Check out mine [here](https://yugen.club/profile/TthOwuycWNU3CXlHr7Pm3izFyy83)!
 
 #### Credits
 
